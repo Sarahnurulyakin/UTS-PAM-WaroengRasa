@@ -1,4 +1,4 @@
-UTS PAM - Waroeng Rasa
+![Splash](https://github.com/user-attachments/assets/fd213351-de0c-44ed-96e1-f9a8c6e39f12)UTS PAM - Waroeng Rasa
 Nama : Sarah Nurul Yakin
 NIM  : 1237050014
 Kelas:IF-D
@@ -9,11 +9,12 @@ Kelas:IF-D
    (Total 11Menu)Daftar menu yang dimuat secara dinamis di HomeActivity.kt:Nama MenuKategoriHarga (Simulasi)Nasi Goreng Waroeng SpesialUtama Rp 28.000,Mie Goreng Sambal MatahUtamaRp 26.000,Ayam Geprek Sambal IjoUtamaRp 24.000,Kwetiau Kuah SeafoodUtama Rp 32.000,Seblak Jeletot 
 tJajananRp 22.000,Kentang Goreng Keju PedasJajananRp 17.000,Tahu Crispy Cabai GaramJajananRp 16.0000,Es Kopi Susu Gula ArenMinumanRp 18.000,Es Teh Leci SegarMinumanRp 15.000,Es Coklat AlpukatMinumanRp 20.000,Soda Gembira WaroengMinumanRp 16.000.
    3. 📸 TANGKAPAN LAYAR (Screenshots)
-   ![orderan](https://github.com/user-attachments/assets/c9c0128c-4107-4838-894b-a3c0c795febb)
-![menu](https://github.com/user-attachments/assets/0eee0549-5f37-4f8a-b616-67e183f08d53)
-![login](https://github.com/user-attachments/assets/f060a17c-fd5b-4fff-9334-ae52f104a45e)
-![finish](https://github.com/user-attachments/assets/da38cae4-777e-4493-824d-b560b0c5edf9)
-![alamat](https://github.com/user-attachments/assets/9a04d1f7-141b-4031-93d5-f74087b1ca6c)
-![Splash](https://github.com/user-attachments/assets/d443abcb-8645-4043-a15b-bd8e2226065a)
-![sign up](https://github.com/user-attachments/assets/a5181239-6900-4c30-9e4b-8eec959cfba0)
-![register](https://github.com/user-attachments/assets/97d85704-527b-4617-bc78-3f8dbfceb06e)
+      
+  ![Splash](https://github.com/user-attachments/assets/41414756-2860-41c7-b3fa-e87ace897b46)
+![sign up](https://github.com/user-attachments/assets/02cc3434-36bd-4446-b795-f15be8f23309)
+![register](https://github.com/user-attachments/assets/1273c5eb-66b7-4384-bed5-9f627449b976)
+![login](https://github.com/user-attachments/assets/c17b10cd-ca81-4c1b-8a57-24829f627c3d)
+![menu](https://github.com/user-attachments/assets/3a1cc31d-2962-4053-bd6f-2d7ae943f587)
+![orderan](https://github.com/user-attachments/assets/f468a573-d538-4965-b806-85acbd52312c)
+![alamat](https://github.com/user-attachments/assets/1264e2aa-2c64-431d-a7aa-e553fd3f1b0c)
+![finish](https://github.com/user-attachments/assets/34fac42b-d557-48e0-8af5-37faaca42bae)
