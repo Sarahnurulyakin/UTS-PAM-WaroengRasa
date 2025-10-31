@@ -1,4 +1,4 @@
-![Splash](https://github.com/user-attachments/assets/fd213351-de0c-44ed-96e1-f9a8c6e39f12)UTS PAM - Waroeng Rasa
+UTS PAM - Waroeng Rasa
 Nama : Sarah Nurul Yakin
 NIM  : 1237050014
 Kelas:IF-D
