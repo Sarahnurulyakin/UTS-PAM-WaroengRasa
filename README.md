@@ -8,7 +8,8 @@ Kelas:IF-D
 2. 🍽️ DAFTAR MENU WAROENG RASA
    (Total 11Menu)Daftar menu yang dimuat secara dinamis di HomeActivity.kt:Nama MenuKategoriHarga (Simulasi)Nasi Goreng Waroeng SpesialUtama Rp 28.000,Mie Goreng Sambal MatahUtamaRp 26.000,Ayam Geprek Sambal IjoUtamaRp 24.000,Kwetiau Kuah SeafoodUtama Rp 32.000,Seblak Jeletot 
 tJajananRp 22.000,Kentang Goreng Keju PedasJajananRp 17.000,Tahu Crispy Cabai GaramJajananRp 16.0000,Es Kopi Susu Gula ArenMinumanRp 18.000,Es Teh Leci SegarMinumanRp 15.000,Es Coklat AlpukatMinumanRp 20.000,Soda Gembira WaroengMinumanRp 16.000.
-   3. 📸 TANGKAPAN LAYAR (Screenshots)
+
+3. 📸 TANGKAPAN LAYAR (Screenshots)
       
   ![Splash](https://github.com/user-attachments/assets/41414756-2860-41c7-b3fa-e87ace897b46)
 ![sign up](https://github.com/user-attachments/assets/02cc3434-36bd-4446-b795-f15be8f23309)
